@@ -1,32 +1,21 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Zamunda.Net</title>
-    <link rel="stylesheet" type="text/css" href="styles.css">
+    <title>Pirating Website Simulation</title>
 </head>
 <body>
-    <header>
-        <nav>
-            <a href="/">Home</a>
-            <a href="/legacy/">Legacy</a>
-            <a href="/tracker/">Tracker</a>
-        </nav>
-    </header>
-
-    <main>
-        <h1>Find & Download Torrents</h1>
-        <form>
-            <input type="text" placeholder="Search..." />
-            <button>Search</button>
-        </form>
-        <div id="torrents">
-        <!-- This div will contain the torrent data -->
-        </div>
-    </main>
-
-    <!-- For simplicity, this part is noted as placeholder. -->
-    <!-- This part would likely involve scripts fetched from JavaScript files -->
-    <!-- which handle interactions, loading data, etc. -->
-
+    <h1>Welcome to the Pirates' Den!</h1>
+    <h2>What do you want to pirate today?</h2>
+    <form action="pirate" method="get">
+        <input type="text" name="item" placeholder="Enter the name of the item to pirate" required>
+        <input type="submit" value="Pirate it!">
+    </form>
+    <hr>
+    <h2>Recently Pirated Content</h2>
+    <ul>
+        <li><span style="color:red;">*</span>Potato, *Potato, Potato</li>
+        <li><span style="color:red;">*</span>Banana, *Banana, Banana</li>
+        <li><span style="color:red;">*</span>Beef, *Beef, Beef</li>
+    </ul>
 </body>
 </html>
