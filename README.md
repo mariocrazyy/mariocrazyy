@@ -3,4 +3,4 @@
 ## 😺Here's about me:
 ### I like tech stuff and gaming, you can look my repos
 ### Here's my Discord Server: https://discord.gg/bDvnNpYcPb
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariocrazyy&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariocrazyy&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
